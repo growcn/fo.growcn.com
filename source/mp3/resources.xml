@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<resource>
+ <id>0001</id>
+ <mp3.name>a1.mp3</mp3.name>
+ <mp3.size>4232160</mp3.size>
+ <lrc.name>a1.lrc</lrc.name>
+ <lrc.size>1118</lrc.size>
+</resource>
+
+<resource>
+ <id>0002</id>
+ <mp3.name>a2.mp3</mp3.name>
+ <mp3.size>4842484</mp3.size>
+ <lrc.name>a2.lrc</lrc.name>
+ <lrc.size>1181</lrc.size>
+</resource>
+</resources>
